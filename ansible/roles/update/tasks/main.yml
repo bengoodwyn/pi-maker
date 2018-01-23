@@ -19,4 +19,4 @@
   become: true
   apt:
     name: wiringpi
-    state: installed
+    state: latest
