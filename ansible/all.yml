@@ -4,3 +4,4 @@
     - ping
     - secure
     - update
+    - node-exporter
